@@ -23,3 +23,6 @@ Problem Statement: I need to make a system that can figure out the smoke incase 
 
 Name: Devadut S Balan
 Problem Statement: I want to detect wake word for my home assistant
+
+Name: Binesh Kumar
+Problem Statement: I need to do predictive maintanence of my HVAC ( Air conditioning ) unit
